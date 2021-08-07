@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple CRUD app to Create ,Read, Update , Delete from   "MochAPI".
+ To start clone the project, install node package and npm start
 
 ## Available Scripts
 
